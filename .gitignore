@@ -1,0 +1,6 @@
+*.csv
+*models
+*.pkl
+*.xml
+*.rdf
+__pycache__
