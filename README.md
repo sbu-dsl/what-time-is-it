@@ -1,6 +1,6 @@
 # What time is it? Temporal Analysis of Novels
 
-This repo contains the code and a link to the dataset for EMNLP 2020 submission: [What time is it? Temporal Analysis of Novels](https://arxiv.org/pdf/2011.04124.pdf).
+This repo contains the code and a link to the dataset for EMNLP 2020 submission: [What time is it? Temporal Analysis of Novels](https://arxiv.org/abs/2011.04124).
 
 ## Data
 We only provide data for the [Gutenberg time dataset](https://drive.google.com/file/d/1bTE2Ul9maAji5B1YVnCYqWUOytXxxq-5/view?usp=sharing) and not for HathiTrust due to copyright laws.
